@@ -1,4 +1,5 @@
 # Import the math module
+# Add unique word program
 import math
 
 try:
@@ -12,6 +13,7 @@ try:
     unique_words = set(words)
 
     # Sort the unique words
+
     sorted_words = sorted(unique_words)
 
     # Display the unique words
