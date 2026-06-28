@@ -1,5 +1,5 @@
 # Import required modules
-# Add set and tuple program
+
 import random
 import math
 
