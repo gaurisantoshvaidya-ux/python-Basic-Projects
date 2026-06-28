@@ -1,4 +1,5 @@
 # Function to manage student marks
+# manage marks program
 def manage_marks():
     marks = []  # List to store subject marks
 
