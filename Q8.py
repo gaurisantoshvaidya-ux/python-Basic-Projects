@@ -1,4 +1,5 @@
 # Class to store Employee details
+# Add Employee class program
 class Employee:
 
     # Constructor to initialize employee details
