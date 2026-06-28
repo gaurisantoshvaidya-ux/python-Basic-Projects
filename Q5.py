@@ -1,4 +1,5 @@
 # Function to manage the student database
+# Add student database program
 def student_database():
 
     # Dictionary to store student records
