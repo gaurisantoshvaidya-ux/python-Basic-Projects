@@ -1,4 +1,5 @@
 # Smart Calculator & Data Manager
+# Add Smart Calculator project
 
 # Import required modules
 import math
