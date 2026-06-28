@@ -1,4 +1,5 @@
 # Create a lambda function to calculate the square of a number
+# Add lambda function program
 square = lambda x: x * x
 
 try:
