@@ -1,4 +1,6 @@
 # Class to store and manage student details
+# Add Student class program
+
 class Student:
 
     # Constructor to initialize student details
