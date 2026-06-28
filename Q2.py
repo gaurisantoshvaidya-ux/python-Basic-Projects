@@ -1,5 +1,7 @@
  
  #function to analyze a string 
+ #add inilizing string program
+ 
 def analyze_string(s):
     # Print length
     print("Length of the string:", len(s))
